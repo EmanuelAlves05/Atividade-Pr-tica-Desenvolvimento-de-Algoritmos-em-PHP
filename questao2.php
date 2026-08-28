@@ -4,5 +4,5 @@
 
     $soma=$n1+$n2;
 
-    echo("O resultado da soma entre os numeros é ". $soma)
+    echo("O resultado da soma entre os numeros é ". $soma);
 ?>
